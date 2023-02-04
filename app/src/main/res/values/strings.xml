@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CounterApp</string>
+    <string name="btnreset">Reset</string>
+    <string name="btnclick">ClickMe</string>
 </resources>
